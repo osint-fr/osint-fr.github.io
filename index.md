@@ -6,7 +6,7 @@ layout: default
 
 **OSINT-FR** est une communauté française basée sur l'OSINT et toutes les techniques qui en découlent.
 
-Notre but est de partager nos connaissances et compétences entre membres dans la bonne entente.
+Notre but est de partager nos connaissances et d'avancer sur tous ensemble sur différents projets, dans la bonne entente et la bonne humeur.
 
 Des meets et d'autres suprises sont à prévoir tout au long de l'année.
 
