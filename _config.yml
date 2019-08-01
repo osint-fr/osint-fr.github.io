@@ -4,3 +4,4 @@ description: Site de la communauté française d'OSINT.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+show_twitter: true
