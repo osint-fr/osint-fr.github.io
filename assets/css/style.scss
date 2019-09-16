@@ -12,3 +12,8 @@ body {
   margin-top: 50px;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+img[src*="#huge"] {
+   width:255px;
+   height:256px;
+}
