@@ -14,6 +14,17 @@
     <![endif]-->
   </head>
   <body>
+      <menu>
+        <div class="topnav" id="myTopnav">
+          <a href="#home" class="active">Home</a>
+          <a href="#news">News</a>
+          <a href="#contact">Contact</a>
+          <a href="#about">About</a>
+          <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+            <i class="fa fa-bars"></i>
+          </a>
+        </div>
+      </menu>
     <div class="wrapper">
       <header>
         <h1><a class="title" href="{{ "/" | absolute_url }}">
@@ -27,17 +38,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
       </header>
-      <menu>
-        <div class="topnav" id="myTopnav">
-          <a href="#home" class="active">Home</a>
-          <a href="#news">News</a>
-          <a href="#contact">Contact</a>
-          <a href="#about">About</a>
-          <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-            <i class="fa fa-bars"></i>
-          </a>
-        </div>
-      </menu>
+
       <section>
 
       {{ content }}
