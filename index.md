@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Bienvenue dans la communauté OSINT-FR
+# Bienvenue sur le site de la communauté OSINT-FR
 
 **OSINT-FR** est une communauté française basée sur l'OSINT et toutes les techniques qui en découlent.
 
