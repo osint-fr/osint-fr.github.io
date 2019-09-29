@@ -3,5 +3,5 @@ logo: /assets/img/logo.png
 description: Site de la communauté française d'OSINT.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 show_twitter: true
