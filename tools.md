@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Liste des outils
+# Liste des tools
 
 ---
 
 Retrouvez sur cette page la liste des tools et autres ressources partagés par la communauté **OSINT-FR** sur Discord.
 
-### Catégories:
+### Tools:
 
 ---
 
