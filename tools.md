@@ -12,4 +12,4 @@ Retrouvez sur cette page la liste des tools et autres ressources partagés par l
 
 ---
 
-- [Réseaux sociaux](/tools/socialnetwork.html)
+- [Réseaux sociaux](/tools/socialnetwork/index.html)
