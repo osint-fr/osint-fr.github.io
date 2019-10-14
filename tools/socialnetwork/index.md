@@ -8,9 +8,9 @@ layout: default
 
 Retrouvez sur cette page la liste des tools pour les réseaux sociaux partagés par la communauté **OSINT-FR** sur Discord et triés par réseau social.
 
-### Réseaux sociaux:
+[Retour](/tools/index.html)
 
----
+## Réseaux sociaux:
 
 - [Twitter](/tools/socialnetwork/twitter/index.html)
 - [Facebook](/tools/socialnetwork/facebook/index.html)
