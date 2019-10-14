@@ -8,6 +8,8 @@ layout: default
 
 Retrouvez sur cette page la liste des tools pour Twitter partagés par la communauté **OSINT-FR** sur Discord.
 
+[Retour](/tools/socialnetwork/index.html)
+
 ## Tools:
 
 ### Tinfoleak
@@ -19,3 +21,12 @@ Tinfoleak est un outil avec lequel vous pouvez obtenir des informations détaill
 [https://tinfoleak.com/](https://tinfoleak.com/) (Online)
 
 ---
+
+### tweets analyzer
+
+Analyse d'activité et scraping de données Twitter.
+
+[https://github.com/x0rz/tweets_analyzer](https://github.com/x0rz/tweets_analyzer)
+
+---
+
