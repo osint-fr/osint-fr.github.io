@@ -19,3 +19,11 @@ Outil Windows permettant de faire de l'OSINT sur les profiles Facebook.
 [https://github.com/TheCyberViking/Facebook_OSINT_Dump](https://github.com/TheCyberViking/Facebook_OSINT_Dump)
 
 ---
+
+### Facebook Graph Searcher
+
+Outil qui permet de faire des recherches sur Facebook à la manière du Facebook Graph Search.
+
+[https://intelx.io/tools?tab=facebook](https://intelx.io/tools?tab=facebook)
+
+---
