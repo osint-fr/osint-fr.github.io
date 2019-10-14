@@ -13,4 +13,5 @@ Retrouvez sur cette page la liste des tools et autres ressources partagés par l
 ---
 
 - [Réseaux sociaux](/tools/socialnetwork/index.html)
-
+- [Threat intelligence](/tools/threatintel/index.html)
+- [Geoint](/tools/geoint/index.html)
