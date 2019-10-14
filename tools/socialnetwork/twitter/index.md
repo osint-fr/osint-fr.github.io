@@ -2,16 +2,21 @@
 layout: default
 ---
 
-# Liste des tools pour les Twitter
+# Liste des tools pour Twitter
 
 ---
 
-Retrouvez sur cette page la liste des tools et autres ressources partagés par la communauté **OSINT-FR** sur Discord et triés par catégorie.
+Retrouvez sur cette page la liste des tools pour Twitter partagés par la communauté **OSINT-FR** sur Discord.
 
-### Catégories:
+## Tools:
 
 ---
 
-- [Réseaux sociaux](/tools/socialnetwork/index.html)
+### Tinfoleak
 
+Tinfoleak est un outil avec lequel vous pouvez obtenir des informations détaillées sur un utilisateur de Twitter.
 
+[https://github.com/vaguileradiaz/tinfoleak](https://github.com/vaguileradiaz/tinfoleak) (Tool)
+[https://tinfoleak.com/](https://tinfoleak.com/) (Online)
+
+---
