@@ -10,8 +10,6 @@ Retrouvez sur cette page la liste des tools pour Twitter partagés par la commun
 
 ## Tools:
 
----
-
 ### Tinfoleak
 
 Tinfoleak est un outil avec lequel vous pouvez obtenir des informations détaillées sur un utilisateur de Twitter.
