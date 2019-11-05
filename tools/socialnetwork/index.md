@@ -15,4 +15,6 @@ Retrouvez sur cette page la liste des tools pour les réseaux sociaux partagés 
 - [Twitter](/tools/socialnetwork/twitter/index.html)
 - [Facebook](/tools/socialnetwork/facebook/index.html)
 - [Linkedin](/tools/socialnetwork/linkedin/index.html)
+- [TikTok](/tools/socialnetwork/tiktok/index.html)
+
 
